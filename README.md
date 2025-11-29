@@ -1,3 +1,7 @@
+<div align="center">
+<img width="1200" alt="Portfolio Preview" src="public/preview.png" />
+</div>
+
 # Portafolio Profesional
 
 Este proyecto es un portafolio personal moderno e interactivo construido con React y Vite. Incorpora elementos de diseño avanzados y funcionalidades de IA utilizando la API de Google Gemini.
