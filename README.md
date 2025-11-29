@@ -1,5 +1,6 @@
 <div align="center">
 <img width="1200" alt="Portfolio Preview" src="public/preview.png" />
+<img width="1200" alt="Knowledge Base Preview" src="public/knowledge_preview.png" />
 </div>
 
 # Portafolio Profesional
